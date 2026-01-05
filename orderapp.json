@@ -1,0 +1,6 @@
+[
+  {
+    "name": "orderregistry",
+    "imageUri": "120975081216.dkr.ecr.ap-south-1.amazonaws.com/orderregistry:latest"
+  }
+]
